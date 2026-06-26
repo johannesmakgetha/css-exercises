@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.odd_p{
+ background-color: rgb(243, 155, 170);
+ font-family: Verdana, "DejaVu Sans", sans-serif;  
+
+}
+
+#even_2{
+    color: blue;
+    font-size: 36px;
+}
+
+#even_4{
+    background-color: rgb(132, 200, 132);
+    font-size: 24px;
+    font-weight: bold;
+
+}
